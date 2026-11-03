@@ -22,7 +22,7 @@ One company = one manual. The page count follows what the company actually discl
 Requires Python 3.11+. No package install, no API key, no network.
 
 ```bash
-git clone https://github.com/finansi-work/company-manual.git
+git clone https://github.com/LINZIQI24GITHUB/company-manual.git
 cd company-manual
 
 python bin/manual.py --company nvda --open

@@ -4,7 +4,7 @@
 
 Please use GitHub's private vulnerability reporting:
 
-<https://github.com/finansi-work/company-manual/security/advisories/new>
+<https://github.com/LINZIQI24GITHUB/company-manual/security/advisories/new>
 
 Do not open a public issue for a security problem.
 
