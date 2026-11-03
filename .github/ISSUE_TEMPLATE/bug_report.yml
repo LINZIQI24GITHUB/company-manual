@@ -1,0 +1,42 @@
+name: Bug report
+description: A render, layout, or data problem
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please do not include private data or API keys.
+  - type: input
+    id: company
+    attributes:
+      label: Company / slug
+      placeholder: nvda
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Command, expected result, actual result.
+    validations:
+      required: true
+  - type: input
+    id: python
+    attributes:
+      label: Python version
+      placeholder: "3.11.9"
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where does it happen?
+      options:
+        - HTML preview
+        - Printed PDF
+        - Tests / CI
+        - Data / source
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot or PDF page
+      description: Drag an image here if useful.

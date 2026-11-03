@@ -1,0 +1,245 @@
+{
+  "slug": "nvda",
+  "locale": "en",
+  "name": "NVIDIA",
+  "legal_name": "NVIDIA Corporation",
+  "name_cn": "英伟达",
+  "ticker": "NVDA",
+  "exchange": "NASDAQ",
+  "currency": "USD",
+  "symbol": "$",
+  "unit": "US$ bn",
+  "fy_label": "FY2026",
+  "fy_end": "2026-01-25",
+  "founded": "1993",
+  "hq": "Santa Clara, California",
+  "employees": "—",
+  "industry": "Accelerated computing · Semiconductors",
+  "business": "NVIDIA designs accelerated-computing platforms: GPUs, CPUs, DPUs, networking, and software. Its products serve data centers and AI factories, gaming, professional visualization, and automotive.",
+  "business_pillars": [
+    [
+      "Data Center / AI",
+      "GPUs, CPUs, DPUs, networking and software for AI factories, cloud and enterprise data centers."
+    ],
+    [
+      "Gaming",
+      "GeForce GPUs and platform software for PC gaming."
+    ],
+    [
+      "Professional Visualization",
+      "RTX workstations and enterprise visualization."
+    ],
+    [
+      "Automotive",
+      "DRIVE platforms for autonomous and assisted driving."
+    ]
+  ],
+  "key_facts": [
+    [
+      "Revenue",
+      "$215.9B"
+    ],
+    [
+      "Net income",
+      "$120.1B"
+    ],
+    [
+      "Gross margin",
+      "71.1%"
+    ],
+    [
+      "Operating cash flow",
+      "$102.7B"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "FY2017",
+      "revenue": 6.91,
+      "gross_profit": 4.063,
+      "operating_income": 1.934,
+      "net_income": 1.666,
+      "eps": 2.57,
+      "assets": 9.841,
+      "liabilities": 4.048,
+      "equity": 5.762,
+      "ocf": 1.672,
+      "capex": null,
+      "dividends": 0.261,
+      "buybacks": 0.739,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2018",
+      "revenue": 9.714,
+      "gross_profit": 5.822,
+      "operating_income": 3.21,
+      "net_income": 3.047,
+      "eps": 4.82,
+      "assets": 11.241,
+      "liabilities": 3.77,
+      "equity": 7.471,
+      "ocf": 3.502,
+      "capex": null,
+      "dividends": 0.341,
+      "buybacks": 0.909,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2019",
+      "revenue": 11.716,
+      "gross_profit": 7.171,
+      "operating_income": 3.804,
+      "net_income": 4.141,
+      "eps": 6.63,
+      "assets": 13.292,
+      "liabilities": 3.95,
+      "equity": 9.342,
+      "ocf": 3.743,
+      "capex": null,
+      "dividends": 0.371,
+      "buybacks": 1.579,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2020",
+      "revenue": 10.918,
+      "gross_profit": 6.768,
+      "operating_income": 2.846,
+      "net_income": 2.796,
+      "eps": 1.13,
+      "assets": 17.315,
+      "liabilities": 5.111,
+      "equity": 12.204,
+      "ocf": 4.761,
+      "capex": null,
+      "dividends": 0.39,
+      "buybacks": 0,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2021",
+      "revenue": 16.675,
+      "gross_profit": 10.396,
+      "operating_income": 4.532,
+      "net_income": 4.332,
+      "eps": 1.73,
+      "assets": 28.791,
+      "liabilities": 11.898,
+      "equity": 16.893,
+      "ocf": 5.822,
+      "capex": null,
+      "dividends": 0.395,
+      "buybacks": 0,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2022",
+      "revenue": 26.914,
+      "gross_profit": 17.475,
+      "operating_income": 10.041,
+      "net_income": 9.752,
+      "eps": 3.85,
+      "assets": 44.187,
+      "liabilities": 17.575,
+      "equity": 26.612,
+      "ocf": 9.108,
+      "capex": 0.976,
+      "dividends": 0.399,
+      "buybacks": 0,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2023",
+      "revenue": 26.974,
+      "gross_profit": 15.356,
+      "operating_income": 4.224,
+      "net_income": 4.368,
+      "eps": 0.17,
+      "assets": 41.182,
+      "liabilities": 19.081,
+      "equity": 22.101,
+      "ocf": 5.641,
+      "capex": 1.833,
+      "dividends": 0.398,
+      "buybacks": 10.039,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2024",
+      "revenue": 60.922,
+      "gross_profit": 44.301,
+      "operating_income": 32.972,
+      "net_income": 29.76,
+      "eps": 1.19,
+      "assets": 65.728,
+      "liabilities": 22.75,
+      "equity": 42.978,
+      "ocf": 28.09,
+      "capex": 1.069,
+      "dividends": 0.395,
+      "buybacks": 9.533,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2025",
+      "revenue": 130.497,
+      "gross_profit": 97.858,
+      "operating_income": 81.453,
+      "net_income": 72.88,
+      "eps": 2.94,
+      "assets": 111.601,
+      "liabilities": 32.274,
+      "equity": 79.327,
+      "ocf": 64.089,
+      "capex": 3.236,
+      "dividends": 0.834,
+      "buybacks": 33.706,
+      "cash": null,
+      "debt": null
+    },
+    {
+      "year": "FY2026",
+      "revenue": 215.938,
+      "gross_profit": 153.463,
+      "operating_income": 130.387,
+      "net_income": 120.067,
+      "eps": 4.9,
+      "assets": 206.803,
+      "liabilities": 49.51,
+      "equity": 157.293,
+      "ocf": 102.718,
+      "capex": 6.042,
+      "dividends": 0.974,
+      "buybacks": 40.086,
+      "cash": null,
+      "debt": null
+    }
+  ],
+  "segments": [],
+  "capital_note": "FY2026: $0.97B dividends, $40.09B share repurchases. FY2022–FY2026 buybacks total about $93.4B.",
+  "notes": [
+    "NVIDIA's fiscal year ends in late January; FY2026 ended 2026-01-25.",
+    "FY2019 revenue is sourced from the RevenueFromContractWithCustomerExcludingAssessedTax tag.",
+    "Capex is not shown for FY2017–FY2021 where the XBRL series is incomplete; use OCF as the cash metric.",
+    "Per-share figures are omitted from the 10-year table because the 10-for-1 split makes older EPS non-comparable."
+  ],
+  "sources": [
+    [
+      "SEC EDGAR — NVIDIA company facts (XBRL)",
+      "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json"
+    ],
+    [
+      "SEC EDGAR — NVIDIA 10-K filings",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=10-K&dateb=&owner=include&count=40"
+    ]
+  ]
+}

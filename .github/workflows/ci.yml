@@ -1,0 +1,32 @@
+name: render
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Render both manuals
+        run: python bin/manual.py --all --out out
+
+      - name: Upload HTML manuals
+        uses: actions/upload-artifact@v4
+        with:
+          name: company-manual-html
+          path: out/*.html
+          if-no-files-found: error

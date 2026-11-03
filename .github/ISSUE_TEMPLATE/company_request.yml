@@ -1,0 +1,49 @@
+name: Company request
+description: Propose a company manual entry
+title: "[company] "
+labels: ["company"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+      placeholder: Taiwan Semiconductor Manufacturing
+    validations:
+      required: true
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker and exchange
+      placeholder: TSM / NYSE
+    validations:
+      required: true
+  - type: dropdown
+    id: market
+    attributes:
+      label: Market
+      options:
+        - US
+        - China A-share
+        - Hong Kong
+        - Other
+  - type: input
+    id: fiscal
+    attributes:
+      label: Latest fiscal year
+      placeholder: FY2025
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public sources
+      description: Links to annual reports, 10-K, XBRL, or exchange filings.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Data rules
+      options:
+        - label: I will use reported figures only, with sources.
+          required: true
+        - label: I will not add ratings, target prices, or recommendations.
+          required: true

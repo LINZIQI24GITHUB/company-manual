@@ -1,0 +1,300 @@
+{
+  "slug": "zjxc",
+  "locale": "zh",
+  "name": "中际旭创",
+  "legal_name": "中际旭创股份有限公司",
+  "name_en": "Zhongji Innolight",
+  "ticker": "300308",
+  "exchange": "深交所创业板",
+  "currency": "CNY",
+  "symbol": "¥",
+  "unit": "亿元",
+  "fy_label": "FY2025",
+  "fy_end": "2025-12-31",
+  "founded": "2005-06-27",
+  "listed": "2012-04-10",
+  "hq": "山东龙口",
+  "employees": "11,625",
+  "chairman": "刘圣",
+  "auditor": "普华永道中天",
+  "industry": "光通信 · 光模块",
+  "business": "中际旭创是高速光互联解决方案提供商，主营高速光模块与光通信器件，服务全球云计算与 AI 算力基础设施。2025 年光通信收发模块收入占营收 97.95%，境外收入占 90.58%。",
+  "business_pillars": [
+    [
+      "光通信收发模块",
+      "高速光模块及器件，用于服务器、交换机与网络设备之间的光互联。"
+    ],
+    [
+      "其他业务",
+      "光组件及其他光通信相关产品。"
+    ],
+    [
+      "全球客户",
+      "2025 年境外收入 346.37 亿元，占营收 90.58%。"
+    ]
+  ],
+  "key_facts": [
+    [
+      "营业收入",
+      "382.40 亿"
+    ],
+    [
+      "归母净利",
+      "107.97 亿"
+    ],
+    [
+      "毛利率",
+      "42.04%"
+    ],
+    [
+      "经营现金流",
+      "108.96 亿"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "2016",
+      "revenue": 1.32,
+      "gross_profit": 0.4,
+      "operating_income": 0.07,
+      "net_income": 0.1,
+      "eps": 0.05,
+      "roe": 0.0182,
+      "assets": 6.32,
+      "liabilities": 0.76,
+      "equity": 5.56,
+      "total_equity": 5.56,
+      "cash": 0.69,
+      "debt": 0.0,
+      "ocf": 0.34,
+      "capex": 0.35,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2017",
+      "revenue": 23.57,
+      "gross_profit": 6.32,
+      "operating_income": 2.06,
+      "net_income": 1.62,
+      "eps": 0.5,
+      "roe": 0.0796,
+      "assets": 78.1,
+      "liabilities": 38.04,
+      "equity": 40.06,
+      "total_equity": 40.06,
+      "cash": 9.57,
+      "debt": 6.76,
+      "ocf": 0.42,
+      "capex": 4.21,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2018",
+      "revenue": 51.56,
+      "gross_profit": 14.06,
+      "operating_income": 6.82,
+      "net_income": 6.23,
+      "eps": 1.36,
+      "roe": 0.1432,
+      "assets": 80.8,
+      "liabilities": 33.04,
+      "equity": 47.76,
+      "total_equity": 47.76,
+      "cash": 10.41,
+      "debt": 6.59,
+      "ocf": 6.6,
+      "capex": 6.08,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2019",
+      "revenue": 47.58,
+      "gross_profit": 12.9,
+      "operating_income": 5.76,
+      "net_income": 5.13,
+      "eps": 0.73,
+      "roe": 0.08289999999999999,
+      "assets": 104.91,
+      "liabilities": 35.65,
+      "equity": 69.26,
+      "total_equity": 69.26,
+      "cash": 12.36,
+      "debt": 11.18,
+      "ocf": 5.69,
+      "capex": 7.59,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2020",
+      "revenue": 70.5,
+      "gross_profit": 17.93,
+      "operating_income": 9.9,
+      "net_income": 8.65,
+      "eps": 1.23,
+      "roe": 0.1173,
+      "assets": 136.16,
+      "liabilities": 56.22,
+      "equity": 78.89,
+      "total_equity": 79.93,
+      "cash": 16.79,
+      "debt": 24.7,
+      "ocf": 0.22,
+      "capex": 9.56,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2021",
+      "revenue": 76.95,
+      "gross_profit": 19.68,
+      "operating_income": 9.63,
+      "net_income": 8.77,
+      "eps": 1.21,
+      "roe": 0.0998,
+      "assets": 165.65,
+      "liabilities": 49.62,
+      "equity": 114.89,
+      "total_equity": 116.03,
+      "cash": 35.15,
+      "debt": 20.55,
+      "ocf": 8.13,
+      "capex": 8.4,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2022",
+      "revenue": 96.42,
+      "gross_profit": 28.26,
+      "operating_income": 13.27,
+      "net_income": 12.24,
+      "eps": 1.54,
+      "roe": 0.10279999999999999,
+      "assets": 165.57,
+      "liabilities": 44.88,
+      "equity": 119.45,
+      "total_equity": 120.69,
+      "cash": 28.31,
+      "debt": 10.81,
+      "ocf": 24.49,
+      "capex": 7.92,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2023",
+      "revenue": 107.18,
+      "gross_profit": 35.36,
+      "operating_income": 24.94,
+      "net_income": 21.74,
+      "eps": 2,
+      "roe": 0.16579999999999998,
+      "assets": 200.07,
+      "liabilities": 52.32,
+      "equity": 142.61,
+      "total_equity": 147.74,
+      "cash": 33.17,
+      "debt": 3.81,
+      "ocf": 18.97,
+      "capex": 17.04,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2024",
+      "revenue": 238.62,
+      "gross_profit": 80.67,
+      "operating_income": 60.5,
+      "net_income": 51.71,
+      "eps": 4.72,
+      "roe": 0.3123,
+      "assets": 288.66,
+      "liabilities": 85.73,
+      "equity": 191.34,
+      "total_equity": 202.93,
+      "cash": 50.54,
+      "debt": 20.32,
+      "ocf": 31.65,
+      "capex": 28.66,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2025",
+      "revenue": 382.4,
+      "gross_profit": 160.74,
+      "operating_income": 135.97,
+      "net_income": 107.97,
+      "eps": 9.8,
+      "roe": 0.4384,
+      "assets": 452.89,
+      "liabilities": 136.68,
+      "equity": 297.65,
+      "total_equity": 316.21,
+      "cash": 109.87,
+      "debt": 8.11,
+      "ocf": 108.96,
+      "capex": 27.6,
+      "dividends": null,
+      "buybacks": null
+    }
+  ],
+  "segments": [
+    {
+      "kind": "分产品",
+      "name": "光通信收发模块",
+      "revenue": 374.57,
+      "share": 97.95,
+      "gm": 42.61
+    },
+    {
+      "kind": "分产品",
+      "name": "其他",
+      "revenue": 7.83,
+      "share": 2.05,
+      "gm": 14.74
+    },
+    {
+      "kind": "分地区",
+      "name": "境外",
+      "revenue": 346.37,
+      "share": 90.58,
+      "gm": 44.64
+    },
+    {
+      "kind": "分地区",
+      "name": "境内",
+      "revenue": 36.03,
+      "share": 9.42,
+      "gm": 17.04
+    }
+  ],
+  "capital_note": "2025 年经营现金流 108.96 亿元，资本开支 27.60 亿元，自由现金流 81.36 亿元。",
+  "notes": [
+    "2025 年年度报告口径；2026 年上半年数据未并入本手册年度表。",
+    "2017 年收购苏州旭创后并表，2016–2017 年营收口径变化较大，跨年比较需注意。",
+    "分产品/分地区数据来自 2025 年报主营业务构成。"
+  ],
+  "sources": [
+    [
+      "东方财富 F10 — 公司概况",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/PageAjax?code=SZ300308"
+    ],
+    [
+      "东方财富 F10 — 主营业务构成",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/BusinessAnalysis/PageAjax?code=SZ300308"
+    ],
+    [
+      "东方财富 F10 — 年度财务数据",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/Index?code=SZ300308"
+    ],
+    [
+      "巨潮资讯 — 中际旭创公告",
+      "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=300308"
+    ]
+  ]
+}

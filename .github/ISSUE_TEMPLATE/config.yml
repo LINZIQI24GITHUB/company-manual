@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FinanSI
+    url: https://finansi.work
+    about: The live site and skill catalog.
+  - name: Security report
+    url: https://github.com/finansi-work/company-manual/security/advisories/new
+    about: Report a vulnerability privately.
