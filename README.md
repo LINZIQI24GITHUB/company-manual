@@ -13,6 +13,10 @@ One company = one manual. The page count follows what the company actually discl
 - Facts only: no ratings, no target price, no buy/sell call.
 - Self-contained HTML; print to A4 PDF.
 
+> **This is FinanSI's open-source flagship, not the full catalog.** Other FinanSI skills are commercial and are not published in this repository.
+
+Full FinanSI catalog: **https://finansi.work**
+
 ![NVIDIA company manual](assets/preview-nvda.png)
 
 ![中际旭创 company manual](assets/preview-zjxc.png)
