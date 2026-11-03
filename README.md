@@ -31,6 +31,8 @@ python bin/manual.py --company zjxc --open
 
 `--open` opens the HTML in your browser. Click **Print / Save PDF**, print A4.
 
+On macOS/Linux, use `python3` instead of `python`.
+
 Render both as separate manuals:
 
 ```bash
