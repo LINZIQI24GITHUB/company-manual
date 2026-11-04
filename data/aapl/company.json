@@ -1,0 +1,245 @@
+{
+  "slug": "aapl",
+  "locale": "en",
+  "name": "Apple",
+  "legal_name": "Apple Inc.",
+  "ticker": "AAPL",
+  "exchange": "NASDAQ",
+  "currency": "USD",
+  "symbol": "$",
+  "unit": "US$ bn",
+  "fy_label": "FY2026",
+  "fy_end": "2026-09-26",
+  "founded": "1976",
+  "hq": "Cupertino, California",
+  "employees": "167,000",
+  "industry": "Consumer electronics · Software & services",
+  "business": "Apple designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells related services. FY2026 net sales were $254.1B from iPhone and $123.3B from Services, together 79% of the total.",
+  "business_pillars": [
+    [
+      "iPhone",
+      "Smartphone family. $254.1B of FY2026 net sales."
+    ],
+    [
+      "Mac",
+      "Personal computers. $37.9B of FY2026 net sales."
+    ],
+    [
+      "iPad",
+      "Tablets. $27.9B of FY2026 net sales."
+    ],
+    [
+      "Wearables, Home and Accessories",
+      "$35.6B of FY2026 net sales."
+    ],
+    [
+      "Services",
+      "Advertising, AppleCare, cloud, digital content and payment services. $123.3B of FY2026 net sales."
+    ]
+  ],
+  "key_facts": [
+    [
+      "Revenue",
+      "$478.8B"
+    ],
+    [
+      "Net income",
+      "$132.2B"
+    ],
+    [
+      "Gross margin",
+      "48.8%"
+    ],
+    [
+      "Operating cash flow",
+      "$145.1B"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "FY2017",
+      "revenue": 229.234,
+      "gross_profit": 88.186,
+      "operating_income": 61.344,
+      "net_income": 48.351,
+      "assets": 375.319,
+      "liabilities": 241.272,
+      "equity": 134.047,
+      "cash": 20.289,
+      "debt": 115.68,
+      "ocf": 63.598,
+      "capex": 12.451,
+      "dividends": 12.769,
+      "buybacks": 32.9
+    },
+    {
+      "year": "FY2018",
+      "revenue": 265.595,
+      "gross_profit": 101.839,
+      "operating_income": 70.898,
+      "net_income": 59.531,
+      "assets": 365.725,
+      "liabilities": 258.578,
+      "equity": 107.147,
+      "cash": 25.913,
+      "debt": 114.483,
+      "ocf": 77.434,
+      "capex": 13.313,
+      "dividends": 13.712,
+      "buybacks": 72.738
+    },
+    {
+      "year": "FY2019",
+      "revenue": 260.174,
+      "gross_profit": 98.392,
+      "operating_income": 63.93,
+      "net_income": 55.256,
+      "assets": 338.516,
+      "liabilities": 248.028,
+      "equity": 90.488,
+      "cash": 48.844,
+      "debt": 108.047,
+      "ocf": 69.391,
+      "capex": 10.495,
+      "dividends": 14.119,
+      "buybacks": 66.897
+    },
+    {
+      "year": "FY2020",
+      "revenue": 274.515,
+      "gross_profit": 104.956,
+      "operating_income": 66.288,
+      "net_income": 57.411,
+      "assets": 323.888,
+      "liabilities": 258.549,
+      "equity": 65.339,
+      "cash": 38.016,
+      "debt": 112.436,
+      "ocf": 80.674,
+      "capex": 7.309,
+      "dividends": 14.081,
+      "buybacks": 72.358
+    },
+    {
+      "year": "FY2021",
+      "revenue": 365.817,
+      "gross_profit": 152.836,
+      "operating_income": 108.949,
+      "net_income": 94.68,
+      "assets": 351.002,
+      "liabilities": 287.912,
+      "equity": 63.09,
+      "cash": 34.94,
+      "debt": 124.719,
+      "ocf": 104.038,
+      "capex": 11.085,
+      "dividends": 14.467,
+      "buybacks": 85.971
+    },
+    {
+      "year": "FY2022",
+      "revenue": 394.328,
+      "gross_profit": 170.782,
+      "operating_income": 119.437,
+      "net_income": 99.803,
+      "assets": 352.755,
+      "liabilities": 302.083,
+      "equity": 50.672,
+      "cash": 23.646,
+      "debt": 120.069,
+      "ocf": 122.151,
+      "capex": 10.708,
+      "dividends": 14.841,
+      "buybacks": 89.402
+    },
+    {
+      "year": "FY2023",
+      "revenue": 383.285,
+      "gross_profit": 169.148,
+      "operating_income": 114.301,
+      "net_income": 96.995,
+      "assets": 352.583,
+      "liabilities": 290.437,
+      "equity": 62.146,
+      "cash": 29.965,
+      "debt": 111.088,
+      "ocf": 110.543,
+      "capex": 10.959,
+      "dividends": 15.025,
+      "buybacks": 77.55
+    },
+    {
+      "year": "FY2024",
+      "revenue": 391.035,
+      "gross_profit": 180.683,
+      "operating_income": 123.216,
+      "net_income": 93.736,
+      "assets": 364.98,
+      "liabilities": 308.03,
+      "equity": 56.95,
+      "cash": 29.943,
+      "debt": 106.629,
+      "ocf": 118.254,
+      "capex": 9.447,
+      "dividends": 15.234,
+      "buybacks": 94.949
+    },
+    {
+      "year": "FY2025",
+      "revenue": 416.161,
+      "gross_profit": 195.201,
+      "operating_income": 133.05,
+      "net_income": 112.01,
+      "assets": 359.241,
+      "liabilities": 285.508,
+      "equity": 73.733,
+      "cash": 35.934,
+      "debt": 98.657,
+      "ocf": 111.482,
+      "capex": 12.715,
+      "dividends": 15.421,
+      "buybacks": 90.711
+    },
+    {
+      "year": "FY2026",
+      "revenue": 478.834,
+      "gross_profit": 233.602,
+      "operating_income": 158.063,
+      "net_income": 132.175,
+      "assets": 404.548,
+      "liabilities": 292.455,
+      "equity": 112.093,
+      "cash": 36.305,
+      "debt": 80.111,
+      "ocf": 145.097,
+      "capex": 9.041,
+      "dividends": 15.721,
+      "buybacks": 86.39,
+      "total_equity": 112.093
+    }
+  ],
+  "segments": [],
+  "capital_note": "FY2026: $15.72B dividends, $86.39B share repurchases. FY2022–FY2026 buybacks total about $439.0B.",
+  "notes": [
+    "Apple's fiscal year ends in late September; FY2026 ended 2026-09-26.",
+    "FY2017 net sales use the SalesRevenueNet tag; FY2018 onward use RevenueFromContractWithCustomerExcludingAssessedTax. Both are reported top lines, not estimates.",
+    "Interest-bearing debt = commercial paper + current and non-current term debt, summed from reported balance-sheet lines.",
+    "Cash is cash and cash equivalents only; marketable securities are excluded.",
+    "A 4-for-1 stock split in August 2020 makes pre-split per-share figures non-comparable, so per-share data is omitted from the table.",
+    "Apple does not disclose gross margin by product category, so no segment mix table is shown."
+  ],
+  "sources": [
+    [
+      "SEC EDGAR — Apple company facts (XBRL)",
+      "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json"
+    ],
+    [
+      "SEC EDGAR — Apple FY2026 Form 10-K",
+      "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm"
+    ],
+    [
+      "SEC EDGAR — Apple 10-K filings",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320193&type=10-K&dateb=&owner=include&count=40"
+    ]
+  ]
+}
