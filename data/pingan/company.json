@@ -1,0 +1,260 @@
+{
+  "slug": "pingan",
+  "locale": "zh",
+  "name": "中国平安",
+  "legal_name": "中国平安保险（集团）股份有限公司",
+  "ticker": "601318",
+  "exchange": "上交所",
+  "currency": "CNY",
+  "symbol": "¥",
+  "unit": "亿元",
+  "fy_label": "FY2025",
+  "fy_end": "2025-12-31",
+  "founded": "1988",
+  "hq": "广东省深圳市",
+  "employees": "258,806",
+  "industry": "综合金融 · 保险",
+  "business": "中国平安是综合金融集团，业务覆盖寿险及健康险、财产保险、银行、资产管理与科技。2025 年营业收入 10,505.06 亿元，归母净利润 1,347.78 亿元。",
+  "business_pillars": [
+    [
+      "寿险及健康险",
+      "长期保障与储蓄型保险，2025 年新业务价值 368.97 亿元。"
+    ],
+    [
+      "财产保险",
+      "车险与非车险，2025 年原保险保费收入 3,431.68 亿元。"
+    ],
+    [
+      "银行",
+      "平安银行，提供零售与对公银行业务。"
+    ],
+    [
+      "资产管理",
+      "保险资金投资与第三方资产管理。"
+    ]
+  ],
+  "capital_note": "2025 年现金分红合计 488.91 亿元，按归母营运利润计算的分红比例 36.4%。",
+  "notes": [
+    "2025 年年度报告口径；金额单位亿元，人民币。",
+    "保险公司不披露“营业成本/毛利”，毛利字段留空显示“—”，毛利率不适用。",
+    "有息负债 = 短期借款 + 长期借款 + 应付债券，按报表披露值加总。",
+    "货币资金仅列示货币资金，不含拆出资金（同业拆借，属投资类资产）。",
+    "分红为当年宣告的现金分红合计（中期+年度）。"
+  ],
+  "segments": [],
+  "sources": [
+    [
+      "中国平安 2025 年年度报告（巨潮资讯）",
+      "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=601318"
+    ],
+    [
+      "东方财富 F10 — 年度财务报表",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/Index?type=0&code=SH601318"
+    ],
+    [
+      "东方财富 — 分红送配数据",
+      "https://data.eastmoney.com/yjfp/detail/601318.html"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "2016",
+      "revenue": 7124.53,
+      "gross_profit": null,
+      "operating_income": 933.68,
+      "net_income": 623.94,
+      "eps": 3.5,
+      "assets": 55769.03,
+      "liabilities": 50904.42,
+      "equity": 3834.49,
+      "total_equity": 4864.61,
+      "cash": 5696.83,
+      "debt": 4779.87,
+      "ocf": 2278.21,
+      "capex": 166.24,
+      "dividends": 137.1,
+      "buybacks": null
+    },
+    {
+      "year": "2017",
+      "revenue": 8908.82,
+      "gross_profit": null,
+      "operating_income": 1347.58,
+      "net_income": 890.88,
+      "eps": 4.99,
+      "assets": 64930.75,
+      "liabilities": 59051.58,
+      "equity": 4733.51,
+      "total_equity": 5879.17,
+      "cash": 5683.99,
+      "debt": 6507.58,
+      "ocf": 1212.83,
+      "capex": 192.57,
+      "dividends": 274.2,
+      "buybacks": null
+    },
+    {
+      "year": "2018",
+      "revenue": 9768.32,
+      "gross_profit": null,
+      "operating_income": 1633.38,
+      "net_income": 1074.04,
+      "eps": 6.02,
+      "assets": 71429.6,
+      "liabilities": 64593.17,
+      "equity": 5565.08,
+      "total_equity": 6836.43,
+      "cash": 4740.59,
+      "debt": 7985.71,
+      "ocf": 2062.6,
+      "capex": 106.63,
+      "dividends": 314.42,
+      "buybacks": null
+    },
+    {
+      "year": "2019",
+      "revenue": 11688.67,
+      "gross_profit": null,
+      "operating_income": 1850.28,
+      "net_income": 1494.07,
+      "eps": 8.41,
+      "assets": 82229.29,
+      "liabilities": 73705.59,
+      "equity": 6731.61,
+      "total_equity": 8523.7,
+      "cash": 4499.09,
+      "debt": 10290.03,
+      "ocf": 2494.45,
+      "capex": 122.1,
+      "dividends": 374.74,
+      "buybacks": null
+    },
+    {
+      "year": "2020",
+      "revenue": 12183.15,
+      "gross_profit": null,
+      "operating_income": 1883.04,
+      "net_income": 1430.99,
+      "eps": 8.1,
+      "assets": 95278.7,
+      "liabilities": 85399.65,
+      "equity": 7625.6,
+      "total_equity": 9879.05,
+      "cash": 5263.01,
+      "debt": 12418.62,
+      "ocf": 3120.75,
+      "capex": 99.95,
+      "dividends": 402.17,
+      "buybacks": null
+    },
+    {
+      "year": "2021",
+      "revenue": 11804.44,
+      "gross_profit": null,
+      "operating_income": 1396.85,
+      "net_income": 1016.18,
+      "eps": 5.77,
+      "assets": 101420.26,
+      "liabilities": 90643.03,
+      "equity": 8124.05,
+      "total_equity": 10777.23,
+      "cash": 5350.67,
+      "debt": 13853.07,
+      "ocf": 901.16,
+      "capex": 121.86,
+      "dividends": 435.07,
+      "buybacks": null
+    },
+    {
+      "year": "2022",
+      "revenue": 8803.55,
+      "gross_profit": null,
+      "operating_income": 1428.39,
+      "net_income": 1110.08,
+      "eps": 6.36,
+      "assets": 110099.4,
+      "liabilities": 98239.44,
+      "equity": 8691.91,
+      "total_equity": 11859.96,
+      "cash": 6137.37,
+      "debt": 12045.82,
+      "ocf": 4767.76,
+      "capex": 88.71,
+      "dividends": 442.38,
+      "buybacks": null
+    },
+    {
+      "year": "2023",
+      "revenue": 9137.89,
+      "gross_profit": null,
+      "operating_income": 1208.53,
+      "net_income": 856.65,
+      "eps": 4.84,
+      "assets": 115834.17,
+      "liabilities": 103544.53,
+      "equity": 8990.11,
+      "total_equity": 12289.64,
+      "cash": 5772.12,
+      "debt": 11924.9,
+      "ocf": 3604.03,
+      "capex": 78.1,
+      "dividends": 442.51,
+      "buybacks": null
+    },
+    {
+      "year": "2024",
+      "revenue": 10289.25,
+      "gross_profit": null,
+      "operating_income": 1716.49,
+      "net_income": 1266.07,
+      "eps": 7.16,
+      "assets": 129578.27,
+      "liabilities": 116531.15,
+      "equity": 9286.0,
+      "total_equity": 13047.12,
+      "cash": 6834.33,
+      "debt": 11847.44,
+      "ocf": 3824.74,
+      "capex": 66.78,
+      "dividends": 464.36,
+      "buybacks": null
+    },
+    {
+      "year": "2025",
+      "revenue": 10505.06,
+      "gross_profit": null,
+      "operating_income": 1876.96,
+      "net_income": 1347.78,
+      "eps": 7.68,
+      "assets": 138984.71,
+      "liabilities": 124824.83,
+      "equity": 10004.19,
+      "total_equity": 14159.88,
+      "cash": 7456.79,
+      "debt": 10882.75,
+      "ocf": 6586.32,
+      "capex": 83.55,
+      "dividends": 488.91,
+      "buybacks": null
+    }
+  ],
+  "key_facts": [
+    [
+      "营业收入",
+      "10,505.06 亿"
+    ],
+    [
+      "归母净利",
+      "1,347.78 亿"
+    ],
+    [
+      "总资产",
+      "138,985 亿"
+    ],
+    [
+      "经营现金流",
+      "6,586.32 亿"
+    ]
+  ],
+  "listed": "2007-03-01"
+}

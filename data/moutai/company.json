@@ -1,0 +1,256 @@
+{
+  "slug": "moutai",
+  "locale": "zh",
+  "name": "贵州茅台",
+  "legal_name": "贵州茅台酒股份有限公司",
+  "ticker": "600519",
+  "exchange": "上交所",
+  "currency": "CNY",
+  "symbol": "¥",
+  "unit": "亿元",
+  "fy_label": "FY2025",
+  "fy_end": "2025-12-31",
+  "founded": "1999",
+  "hq": "贵州省仁怀市茅台镇",
+  "employees": "34,992",
+  "industry": "白酒 · 食品饮料",
+  "business": "贵州茅台酒股份有限公司主营茅台酒及系列酒的生产与销售，主导产品为贵州茅台酒。2025 年营业收入 1,688.38 亿元，归母净利润 823.20 亿元。",
+  "business_pillars": [
+    [
+      "茅台酒",
+      "主导产品贵州茅台酒，公司收入与利润的主要来源。"
+    ],
+    [
+      "系列酒",
+      "茅台酱香系列酒，覆盖中端价格带。"
+    ],
+    [
+      "渠道",
+      "直销与经销渠道并行，覆盖国内及海外市场。"
+    ]
+  ],
+  "capital_note": "2025 年宣告现金分红合计 650.33 亿元；公司无有息借款。分红为当年宣告的现金分红合计（中期+年度+特别分红）。",
+  "notes": [
+    "2025 年年度报告口径；金额单位亿元，人民币。",
+    "货币资金与拆出资金合计列示：2019 年起公司将原计入货币资金的存放同业款项调整至拆出资金，单看货币资金会导致 2019 年同比不可比。",
+    "无有息负债，债务为 0；一年内到期的租赁负债金额很小，未计入有息负债。",
+    "分红为当年宣告的现金分红合计（中期+年度+特别分红），非现金流量表“分配股利、利润或偿付利息支付的现金”。",
+    "公司未披露按产品的毛利拆分，故不做分部表。"
+  ],
+  "segments": [],
+  "sources": [
+    [
+      "贵州茅台 2025 年年度报告（巨潮资讯）",
+      "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=600519"
+    ],
+    [
+      "东方财富 F10 — 年度财务报表",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/Index?type=0&code=SH600519"
+    ],
+    [
+      "东方财富 — 分红送配数据",
+      "https://data.eastmoney.com/yjfp/detail/600519.html"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "2016",
+      "revenue": 388.62,
+      "gross_profit": 354.52,
+      "operating_income": 242.66,
+      "net_income": 167.18,
+      "eps": 13.31,
+      "assets": 1129.35,
+      "liabilities": 370.36,
+      "equity": 728.94,
+      "total_equity": 758.99,
+      "cash": 672.45,
+      "debt": 0.0,
+      "ocf": 374.51,
+      "capex": 10.19,
+      "dividends": 85.26,
+      "buybacks": null
+    },
+    {
+      "year": "2017",
+      "revenue": 582.18,
+      "gross_profit": 522.78,
+      "operating_income": 389.4,
+      "net_income": 270.79,
+      "eps": 21.56,
+      "assets": 1346.1,
+      "liabilities": 385.9,
+      "equity": 914.52,
+      "total_equity": 960.2,
+      "cash": 878.69,
+      "debt": 0.0,
+      "ocf": 221.53,
+      "capex": 11.25,
+      "dividends": 138.17,
+      "buybacks": null
+    },
+    {
+      "year": "2018",
+      "revenue": 736.39,
+      "gross_profit": 671.16,
+      "operating_income": 513.43,
+      "net_income": 352.04,
+      "eps": 28.02,
+      "assets": 1598.47,
+      "liabilities": 424.38,
+      "equity": 1128.39,
+      "total_equity": 1174.08,
+      "cash": 1120.75,
+      "debt": 0.0,
+      "ocf": 413.85,
+      "capex": 16.07,
+      "dividends": 182.64,
+      "buybacks": null
+    },
+    {
+      "year": "2019",
+      "revenue": 854.3,
+      "gross_profit": 780.0,
+      "operating_income": 590.41,
+      "net_income": 412.06,
+      "eps": 32.8,
+      "assets": 1830.42,
+      "liabilities": 411.66,
+      "equity": 1360.1,
+      "total_equity": 1418.76,
+      "cash": 1306.3,
+      "debt": 0.0,
+      "ocf": 452.11,
+      "capex": 31.49,
+      "dividends": 213.87,
+      "buybacks": null
+    },
+    {
+      "year": "2020",
+      "revenue": 949.15,
+      "gross_profit": 867.61,
+      "operating_income": 666.35,
+      "net_income": 466.97,
+      "eps": 37.17,
+      "assets": 2133.96,
+      "liabilities": 456.75,
+      "equity": 1613.23,
+      "total_equity": 1677.21,
+      "cash": 1542.91,
+      "debt": 0.0,
+      "ocf": 516.69,
+      "capex": 20.9,
+      "dividends": 242.36,
+      "buybacks": null
+    },
+    {
+      "year": "2021",
+      "revenue": 1061.9,
+      "gross_profit": 972.07,
+      "operating_income": 747.51,
+      "net_income": 524.6,
+      "eps": 41.76,
+      "assets": 2551.68,
+      "liabilities": 582.11,
+      "equity": 1895.39,
+      "total_equity": 1969.58,
+      "cash": 1868.78,
+      "debt": 1.04,
+      "ocf": 640.29,
+      "capex": 34.09,
+      "dividends": 272.28,
+      "buybacks": null
+    },
+    {
+      "year": "2022",
+      "revenue": 1241.0,
+      "gross_profit": 1140.07,
+      "operating_income": 878.8,
+      "net_income": 627.17,
+      "eps": 49.93,
+      "assets": 2545.01,
+      "liabilities": 495.63,
+      "equity": 1974.8,
+      "total_equity": 2049.38,
+      "cash": 1744.47,
+      "debt": 1.09,
+      "ocf": 366.99,
+      "capex": 53.07,
+      "dividends": 325.49,
+      "buybacks": null
+    },
+    {
+      "year": "2023",
+      "revenue": 1476.94,
+      "gross_profit": 1358.27,
+      "operating_income": 1037.09,
+      "net_income": 747.34,
+      "eps": 59.49,
+      "assets": 2727.0,
+      "liabilities": 490.43,
+      "equity": 2156.69,
+      "total_equity": 2236.56,
+      "cash": 1746.24,
+      "debt": 0.57,
+      "ocf": 665.93,
+      "capex": 26.2,
+      "dividends": 387.86,
+      "buybacks": null
+    },
+    {
+      "year": "2024",
+      "revenue": 1708.99,
+      "gross_profit": 1571.1,
+      "operating_income": 1196.89,
+      "net_income": 862.28,
+      "eps": 68.64,
+      "assets": 2989.45,
+      "liabilities": 569.33,
+      "equity": 2331.06,
+      "total_equity": 2420.11,
+      "cash": 1864.83,
+      "debt": 1.12,
+      "ocf": 924.64,
+      "capex": 46.79,
+      "dividends": 647.63,
+      "buybacks": null
+    },
+    {
+      "year": "2025",
+      "revenue": 1688.38,
+      "gross_profit": 1539.46,
+      "operating_income": 1148.09,
+      "net_income": 823.2,
+      "eps": 65.66,
+      "assets": 3038.35,
+      "liabilities": 498.76,
+      "equity": 2446.38,
+      "total_equity": 2539.59,
+      "cash": 1507.87,
+      "debt": 0.44,
+      "ocf": 615.22,
+      "capex": 31.28,
+      "dividends": 650.33,
+      "buybacks": null
+    }
+  ],
+  "key_facts": [
+    [
+      "营业收入",
+      "1,688.38 亿"
+    ],
+    [
+      "归母净利",
+      "823.20 亿"
+    ],
+    [
+      "毛利率",
+      "91.2%"
+    ],
+    [
+      "经营现金流",
+      "615.22 亿"
+    ]
+  ],
+  "listed": "2001-08-27"
+}
