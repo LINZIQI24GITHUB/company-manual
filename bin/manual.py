@@ -61,7 +61,10 @@ LABELS = {
         "notes": "Notes on the data",
         "colophon": "How to read this manual",
         "colophon_text": "This is a factual company manual. It contains reported figures, not ratings, forecasts, or recommendations. Every number is tied to a filing or a public financial data source.",
-        "cover_note": "Reported figures only. No ratings, no target price, no buy/sell call.",
+        "cover_note": "Reported figures only. No ratings, no target price, no buy/sell call. Not investment advice.",
+        "disclaimer": "Disclaimer",
+        "disclaimer_text": "This manual summarises publicly disclosed information. It is not investment advice and does not recommend buying or selling any security. Historical figures do not guarantee future results.",
+        "disclaimer_alt": "不构成投资建议 · 历史数据不代表未来表现。",
         "cash_title": "Cash flow & capital returns",
         "cash_sub": "last five years",
         "growth": "Growth",
@@ -118,7 +121,10 @@ LABELS = {
         "notes": "数据说明",
         "colophon": "怎么读这本手册",
         "colophon_text": "这是一本公司事实手册。只收已披露数字，不做评分、不做预测、不给买卖建议。每个数字都能回到年报或公开财务数据源。",
-        "cover_note": "只列已披露数字。无评分、无目标价、无买卖建议。",
+        "cover_note": "只列已披露数字。无评分、无目标价、无买卖建议。不构成投资建议。",
+        "disclaimer": "免责声明",
+        "disclaimer_text": "本手册仅为公开披露信息的事实整理，不构成投资建议，也不构成对任何证券的买卖推荐。历史数据不代表未来表现。",
+        "disclaimer_alt": "Not investment advice. Historical results do not guarantee future performance.",
         "cash_title": "现金流与资本回报",
         "cash_sub": "近五年",
         "growth": "增长",
@@ -897,6 +903,7 @@ def flow_sources(c: dict, L: dict) -> str:
     <div class="sources">{sources}</div>
     <div class="method"><div class="kicker"><strong>{esc(L["method"])}</strong></div><p>{method_text}</p></div>
     <div class="method"><div class="kicker"><strong>{esc(L["definitions"])}</strong></div><p>{defs_text}</p></div>
+    <div class="method disclaimer"><div class="kicker"><strong>{esc(L["disclaimer"])}</strong></div><p>{esc(L["disclaimer_text"])}</p><p class="disclaimer-alt">{esc(L["disclaimer_alt"])}</p></div>
   </div>
 </section>
 """

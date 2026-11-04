@@ -1,5 +1,5 @@
 ---
-name: finansi-company-manual
+name: company-manual
 description: >-
   Generate a content-driven company manual for a US or China listed company.
   One company = one manual; page count follows disclosed content, not a fixed
@@ -72,6 +72,9 @@ All money values use the same `unit`; the renderer does not convert currencies.
 - Use reported figures only. Do not introduce adjusted, forecast, or vendor-estimated numbers.
 - Margins and FCF are computed from reported line items; label them as computed.
 - Every manual must list its sources.
+- Every manual must end with the fixed disclaimer block (locale text plus the other language):
+  not investment advice, no buy/sell recommendation, historical results do not guarantee future
+  performance. Do not remove or reword it into a rating.
 - No ratings, no scores, no target prices, no buy/sell language.
 - If a field is missing, render `—`; do not estimate.
 - Fiscal years and currencies must be explicit on the cover.

@@ -302,12 +302,25 @@ body {
 
 @media print {
   html, body { background: var(--paper); }
-  .volume { width: auto; margin: 0; padding: 14mm; box-shadow: none; background: var(--paper); }
+  .volume { width: auto; margin: 0; padding: 12mm 14mm; box-shadow: none; background: var(--paper); }
   .cover-page { min-height: 265mm; }
   .block.keep { break-inside: avoid; }
   .entry-head { break-inside: avoid; }
   .entry-foot { break-inside: avoid; }
+  .disclaimer { margin-top: 3mm; padding-top: 2mm; }
+  .block { margin-top: 6mm; }
+  .block:last-child { margin-bottom: 0; }
+  .block:last-child .method { margin-top: 3mm; }
+  .block:last-child .sources { font-size: 8.2px; }
 }
+
+.disclaimer {
+  margin-top: 6mm;
+  padding-top: 3mm;
+  border-top: 0.2mm solid var(--line);
+}
+.disclaimer p { font-size: 9px; color: #5b5f58; }
+.disclaimer .disclaimer-alt { font-size: 8px; color: #7a7e76; margin-top: 1.5mm; }
 
 @page {
   size: A4;

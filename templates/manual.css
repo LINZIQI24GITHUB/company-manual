@@ -463,6 +463,14 @@ body {
 
 @page { size: A4; margin: 0; }
 
+.disclaimer {
+  margin-top: 6mm;
+  padding-top: 3mm;
+  border-top: 0.2mm solid var(--line);
+}
+.disclaimer p { font-size: 9px; color: #5b5f58; }
+.disclaimer .disclaimer-alt { font-size: 8px; color: #7a7e76; margin-top: 1.5mm; }
+
 @media print {
   body { background: #fff; }
   .page {
