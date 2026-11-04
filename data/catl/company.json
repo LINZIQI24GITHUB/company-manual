@@ -1,0 +1,254 @@
+{
+  "slug": "catl",
+  "locale": "zh",
+  "name": "宁德时代",
+  "legal_name": "宁德时代新能源科技股份有限公司",
+  "name_en": "Contemporary Amperex Technology Co., Ltd.",
+  "ticker": "300750",
+  "exchange": "深交所创业板",
+  "currency": "CNY",
+  "symbol": "¥",
+  "unit": "亿元",
+  "fy_label": "FY2025",
+  "fy_end": "2025-12-31",
+  "founded": "2011-12-16",
+  "listed": "2018-06-11",
+  "hq": "福建宁德",
+  "employees": "185,839",
+  "chairman": "曾毓群",
+  "auditor": "致同会计师事务所",
+  "industry": "动力电池 · 储能",
+  "business": "宁德时代是全球领先的动力电池与储能系统供应商，主营动力电池系统、储能电池系统和电池材料及回收。2025 年营业收入 4,237.02 亿元，归母净利润 722.01 亿元。",
+  "business_pillars": [
+    [
+      "动力电池系统",
+      "面向乘用车与商用车的动力电池产品与解决方案，是公司主要收入来源。"
+    ],
+    [
+      "储能电池系统",
+      "面向电网、工商业与户用的储能产品与系统集成。"
+    ],
+    [
+      "电池材料及回收",
+      "正极材料、前驱体等电池材料，以及退役电池回收利用。"
+    ]
+  ],
+  "key_facts": [
+    [
+      "营业收入",
+      "4,237.02 亿元"
+    ],
+    [
+      "归母净利润",
+      "722.01 亿元"
+    ],
+    [
+      "毛利率",
+      "26.27%"
+    ],
+    [
+      "经营现金流",
+      "1,332.20 亿元"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "2016",
+      "revenue": 148.79,
+      "gross_profit": 65.02,
+      "operating_income": 32.12,
+      "net_income": 28.52,
+      "assets": 285.88,
+      "liabilities": 127.97,
+      "equity": 154.89,
+      "total_equity": 157.91,
+      "cash": 24.57,
+      "debt": 17.69,
+      "ocf": 21.09,
+      "capex": 28.01,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2017",
+      "revenue": 199.97,
+      "gross_profit": 72.57,
+      "operating_income": 48.32,
+      "net_income": 38.78,
+      "assets": 496.63,
+      "liabilities": 231.92,
+      "equity": 247.01,
+      "total_equity": 264.71,
+      "cash": 140.81,
+      "debt": 47.39,
+      "ocf": 23.41,
+      "capex": 71.8,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2018",
+      "revenue": 296.11,
+      "gross_profit": 97.09,
+      "operating_income": 41.68,
+      "net_income": 33.87,
+      "assets": 738.84,
+      "liabilities": 386.84,
+      "equity": 329.38,
+      "total_equity": 352.0,
+      "cash": 277.31,
+      "debt": 56.0,
+      "ocf": 113.16,
+      "capex": 66.29,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2019",
+      "revenue": 457.88,
+      "gross_profit": 133.05,
+      "operating_income": 57.59,
+      "net_income": 45.6,
+      "assets": 1013.52,
+      "liabilities": 591.64,
+      "equity": 381.35,
+      "total_equity": 421.88,
+      "cash": 322.7,
+      "debt": 96.92,
+      "ocf": 134.72,
+      "capex": 96.27,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2020",
+      "revenue": 503.19,
+      "gross_profit": 139.7,
+      "operating_income": 69.59,
+      "net_income": 55.83,
+      "assets": 1566.18,
+      "liabilities": 874.24,
+      "equity": 642.07,
+      "total_equity": 691.95,
+      "cash": 684.24,
+      "debt": 281.35,
+      "ocf": 184.3,
+      "capex": 133.02,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2021",
+      "revenue": 1303.56,
+      "gross_profit": 342.62,
+      "operating_income": 198.24,
+      "net_income": 159.31,
+      "assets": 3076.67,
+      "liabilities": 2150.45,
+      "equity": 845.13,
+      "total_equity": 926.22,
+      "cash": 890.72,
+      "debt": 536.46,
+      "ocf": 429.08,
+      "capex": 437.68,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2022",
+      "revenue": 3285.94,
+      "gross_profit": 665.44,
+      "operating_income": 368.22,
+      "net_income": 307.29,
+      "assets": 6009.52,
+      "liabilities": 4240.43,
+      "equity": 1644.81,
+      "total_equity": 1769.09,
+      "cash": 1910.43,
+      "debt": 999.25,
+      "ocf": 612.09,
+      "capex": 482.15,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2023",
+      "revenue": 4009.17,
+      "gross_profit": 918.47,
+      "operating_income": 537.18,
+      "net_income": 441.21,
+      "assets": 7171.68,
+      "liabilities": 4972.85,
+      "equity": 1977.08,
+      "total_equity": 2198.83,
+      "cash": 2643.07,
+      "debt": 1248.76,
+      "ocf": 928.26,
+      "capex": 336.25,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2024",
+      "revenue": 3620.13,
+      "gross_profit": 884.94,
+      "operating_income": 640.52,
+      "net_income": 507.45,
+      "assets": 7866.58,
+      "liabilities": 5132.02,
+      "equity": 2469.3,
+      "total_equity": 2734.56,
+      "cash": 3035.12,
+      "debt": 1357.39,
+      "ocf": 969.9,
+      "capex": 311.8,
+      "dividends": null,
+      "buybacks": null
+    },
+    {
+      "year": "2025",
+      "revenue": 4237.02,
+      "gross_profit": 1113.19,
+      "operating_income": 895.19,
+      "net_income": 722.01,
+      "assets": 9748.28,
+      "liabilities": 6038.01,
+      "equity": 3371.08,
+      "total_equity": 3710.26,
+      "cash": 3335.13,
+      "debt": 1168.51,
+      "ocf": 1332.2,
+      "capex": 423.45,
+      "dividends": null,
+      "buybacks": null
+    }
+  ],
+  "segments": [],
+  "capital_note": "本次数据未单列分红与回购，资本配置表省略。",
+  "notes": [
+    "A 股口径；2016 年为上市前年报/招股说明书比较数，2018 年 6 月上市，跨年比较需注意。",
+    "2017–2025 年营收与归母净利已与东方财富 F10 年度指标交叉核对一致。",
+    "debt = 短期借款 + 一年内到期的非流动负债 + 长期借款 + 应付债券，四项披露值相加（计算值）。",
+    "cash = 货币资金，含受限资金，未剔除。",
+    "equity = 归属于母公司股东权益；total_equity = 所有者权益合计（含少数股东权益）。",
+    "分红与回购未单列；capital allocation 表省略。"
+  ],
+  "sources": [
+    [
+      "东方财富 F10 — 公司概况",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/PageAjax?code=SZ300750"
+    ],
+    [
+      "东方财富 F10 — 年度财务数据",
+      "https://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/Index?code=SZ300750"
+    ],
+    [
+      "巨潮资讯 — 宁德时代公告",
+      "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=300750"
+    ],
+    [
+      "新浪财经 — 年度财务报表镜像（抽取用）",
+      "https://money.finance.sina.com.cn/corp/go.php/vDOWN_BalanceSheet/displaytype/4/stockid/300750/ctrl/all.phtml"
+    ]
+  ]
+}

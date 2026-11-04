@@ -302,7 +302,7 @@ body {
 
 @media print {
   html, body { background: var(--paper); }
-  .volume { width: auto; margin: 0; padding: 12mm 14mm; box-shadow: none; background: var(--paper); }
+  .volume { width: auto; margin: 0; padding: 12mm 14mm 6mm; box-shadow: none; background: var(--paper); }
   .cover-page { min-height: 265mm; }
   .block.keep { break-inside: avoid; }
   .entry-head { break-inside: avoid; }

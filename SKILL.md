@@ -6,14 +6,14 @@ description: >-
   four-page template. Sections include business, 10-year income statement,
   balance sheet, cash flow, segment mix, capital allocation, and sources.
   No ratings, forecasts, target prices, or buy/sell recommendations.
-  Demo companies: NVIDIA (NVDA) and 中际旭创 (300308).
+  Demo companies: NVIDIA (NVDA), Apple (AAPL), Tesla (TSLA) and 中际旭创 (300308), 宁德时代 (300750).
 ---
 
 # FinanSI Company Manual
 
 A company manual, not a scorecard and not a fixed-page brochure.
 
-**One company = one manual.** The manual runs as long as the company's disclosed content requires. The current two demos happen to fit in four pages; that is a result, not a specification.
+**One company = one manual.** The manual runs as long as the company's disclosed content requires. The current demos happen to fit in four pages; that is a result, not a specification.
 
 ## When to use
 
@@ -28,7 +28,10 @@ Do not use it to produce ratings, target prices, or trade recommendations.
 
 ```bash
 python bin/manual.py --company nvda --open
+python bin/manual.py --company aapl --open
+python bin/manual.py --company tsla --open
 python bin/manual.py --company zjxc --open
+python bin/manual.py --company catl --open
 python bin/manual.py --all
 ```
 

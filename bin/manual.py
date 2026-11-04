@@ -938,13 +938,19 @@ def render(c: dict) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Render a company manual")
-    parser.add_argument("--company", help="company slug: nvda / zjxc")
+    parser.add_argument("--company", help="company slug (e.g. nvda / zjxc / aapl)")
     parser.add_argument("--all", action="store_true", help="render all companies")
     parser.add_argument("--out", type=Path, help="output directory")
     parser.add_argument("--open", action="store_true", help="open result in browser")
     args = parser.parse_args()
 
-    slugs = ["nvda", "zjxc"] if args.all or not args.company else [args.company]
+    if args.company:
+        slugs = [args.company]
+    else:
+        slugs = sorted(path.parent.name for path in DATA_DIR.glob("*/company.json"))
+        if not slugs:
+            print(f"no company data found under {DATA_DIR}")
+            return 1
     out_dir = args.out or ROOT / "out"
     out_dir.mkdir(parents=True, exist_ok=True)
     first_path = None

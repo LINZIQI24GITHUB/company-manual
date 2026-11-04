@@ -1,0 +1,245 @@
+{
+  "slug": "tsla",
+  "locale": "en",
+  "name": "Tesla",
+  "legal_name": "Tesla, Inc.",
+  "ticker": "TSLA",
+  "exchange": "NASDAQ",
+  "currency": "USD",
+  "symbol": "$",
+  "unit": "US$ bn",
+  "fy_label": "FY2025",
+  "fy_end": "2025-12-31",
+  "founded": "2003",
+  "hq": "Austin, Texas",
+  "employees": "134,785",
+  "industry": "Electric vehicles · Energy generation & storage",
+  "business": "Tesla designs, develops, manufactures, sells and leases electric vehicles and energy generation and storage systems, and provides services related to its products. FY2025 revenue was $94.8B: automotive $69.5B, energy generation and storage $12.8B, services and other $12.5B.",
+  "business_pillars": [
+    [
+      "Automotive",
+      "Electric vehicles and related regulatory credits and leasing. $69.5B of FY2025 revenue."
+    ],
+    [
+      "Energy generation and storage",
+      "Energy storage products and solar generation. $12.8B of FY2025 revenue."
+    ],
+    [
+      "Services and other",
+      "Vehicle service, charging, insurance and used-vehicle sales. $12.5B of FY2025 revenue."
+    ]
+  ],
+  "key_facts": [
+    [
+      "Revenue",
+      "$94.8B"
+    ],
+    [
+      "Net income",
+      "$3.8B"
+    ],
+    [
+      "Gross margin",
+      "18.0%"
+    ],
+    [
+      "Operating cash flow",
+      "$14.7B"
+    ]
+  ],
+  "financials": [
+    {
+      "year": "FY2016",
+      "revenue": 7.0,
+      "gross_profit": 1.599,
+      "operating_income": -0.667,
+      "net_income": -0.675,
+      "assets": 22.664,
+      "liabilities": 16.75,
+      "equity": 5.538,
+      "total_equity": 5.538,
+      "cash": 3.393,
+      "debt": 0.007,
+      "ocf": -0.124,
+      "capex": 1.281,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2017",
+      "revenue": 11.759,
+      "gross_profit": 2.222,
+      "operating_income": -1.632,
+      "net_income": -1.961,
+      "assets": 28.655,
+      "liabilities": 23.023,
+      "equity": 5.235,
+      "total_equity": 5.235,
+      "cash": 3.368,
+      "debt": 9.629,
+      "ocf": -0.061,
+      "capex": 3.415,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2018",
+      "revenue": 21.461,
+      "gross_profit": 4.042,
+      "operating_income": -0.388,
+      "net_income": -0.976,
+      "assets": 29.74,
+      "liabilities": 23.426,
+      "equity": 5.758,
+      "total_equity": 5.758,
+      "cash": 3.686,
+      "debt": 10.632,
+      "ocf": 2.098,
+      "capex": 2.101,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2019",
+      "revenue": 24.578,
+      "gross_profit": 4.069,
+      "operating_income": -0.069,
+      "net_income": -0.862,
+      "assets": 34.309,
+      "liabilities": 26.199,
+      "equity": 7.467,
+      "total_equity": 7.467,
+      "cash": 6.268,
+      "debt": 11.801,
+      "ocf": 2.405,
+      "capex": 1.327,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2020",
+      "revenue": 31.536,
+      "gross_profit": 6.63,
+      "operating_income": 1.994,
+      "net_income": 0.721,
+      "assets": 52.148,
+      "liabilities": 28.418,
+      "equity": 23.075,
+      "total_equity": 23.075,
+      "cash": 19.384,
+      "debt": 10.22,
+      "ocf": 5.943,
+      "capex": 3.157,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2021",
+      "revenue": 53.823,
+      "gross_profit": 13.606,
+      "operating_income": 6.523,
+      "net_income": 5.519,
+      "assets": 62.131,
+      "liabilities": 30.548,
+      "equity": 31.015,
+      "total_equity": 31.015,
+      "cash": 17.576,
+      "debt": 5.342,
+      "ocf": 11.497,
+      "capex": 6.482,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2022",
+      "revenue": 81.462,
+      "gross_profit": 20.853,
+      "operating_income": 13.656,
+      "net_income": 12.556,
+      "assets": 82.338,
+      "liabilities": 36.44,
+      "equity": 45.489,
+      "total_equity": 45.489,
+      "cash": 16.253,
+      "debt": 2.045,
+      "ocf": 14.724,
+      "capex": 7.158,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2023",
+      "revenue": 96.773,
+      "gross_profit": 17.66,
+      "operating_income": 8.891,
+      "net_income": 14.997,
+      "assets": 106.618,
+      "liabilities": 43.009,
+      "equity": 63.367,
+      "total_equity": 63.367,
+      "cash": 16.398,
+      "debt": 4.657,
+      "ocf": 13.256,
+      "capex": 8.898,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2024",
+      "revenue": 97.69,
+      "gross_profit": 17.45,
+      "operating_income": 7.076,
+      "net_income": 7.091,
+      "assets": 122.07,
+      "liabilities": 48.39,
+      "equity": 73.617,
+      "total_equity": 73.617,
+      "cash": 16.139,
+      "debt": 7.878,
+      "ocf": 14.923,
+      "capex": 11.339,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    },
+    {
+      "year": "FY2025",
+      "revenue": 94.827,
+      "gross_profit": 17.094,
+      "operating_income": 4.355,
+      "net_income": 3.794,
+      "assets": 137.806,
+      "liabilities": 54.941,
+      "equity": 82.807,
+      "total_equity": 82.807,
+      "cash": 16.513,
+      "debt": 8.153,
+      "ocf": 14.747,
+      "capex": 8.527,
+      "dividends": 0.0,
+      "buybacks": 0.0
+    }
+  ],
+  "segments": [],
+  "capital_note": "Tesla paid no dividends and repurchased no common stock in FY2016–FY2025.",
+  "notes": [
+    "Fiscal year ends 31 December; FY2025 10-K filed 2026-01-29.",
+    "Debt = current portion of debt and finance leases + non-current debt and finance leases, as reported on the balance sheet.",
+    "Equity includes noncontrolling interests. Redeemable noncontrolling interests (temporary equity) are reported separately in FY2016–FY2025, so assets = liabilities + equity + temporary equity.",
+    "Revenue is total revenues as reported; no adjusted or forecast figures.",
+    "No dividends or buybacks were paid in FY2016–FY2025, so the capital-allocation section is omitted."
+  ],
+  "sources": [
+    [
+      "SEC EDGAR — Tesla company facts (XBRL)",
+      "https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json"
+    ],
+    [
+      "SEC EDGAR — Tesla FY2025 Form 10-K",
+      "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm"
+    ],
+    [
+      "SEC EDGAR — Tesla 10-K filings",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=10-K&dateb=&owner=include&count=40"
+    ]
+  ]
+}
