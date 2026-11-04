@@ -1,68 +1,43 @@
-# FinanSI Company Manual
+# Company Manual
 
+[![CI](https://github.com/LINZIQI24GITHUB/company-manual/actions/workflows/ci.yml/badge.svg)](https://github.com/LINZIQI24GITHUB/company-manual/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-1f4d3a)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-1f4d3a)](LICENSE)
 [![No ratings](https://img.shields.io/badge/ratings-none-1f4d3a)](#data-rules)
 
-**A content-driven company manual for US and China listed companies.**
+**One command turns a listed company into a printable company manual.**
+Ten years of reported financials, the business mix, cash flow, and sources — on the page, not in a chat window.
 
-One company = one manual. The page count follows what the company actually discloses, not a fixed template.
+```bash
+git clone https://github.com/LINZIQI24GITHUB/company-manual.git
+cd company-manual
+python bin/manual.py --company nvda --open
+```
 
-- **NVIDIA** (NASDAQ: NVDA) · FY2026 10-K
-- **中际旭创** (SZ: 300308) · FY2025 annual report
-- Facts only: no ratings, no target price, no buy/sell call.
-- Self-contained HTML; print to A4 PDF.
+Output: `out/manual-nvda.html`. Click **Print / Save PDF**, print A4.
 
-> **This is FinanSI's open-source flagship, not the full catalog.** Other FinanSI skills are commercial and are not published in this repository.
+**No API key, no network, no package install** — Python 3.11+ and the standard library.
 
-Full FinanSI catalog: **https://finansi.work**
+**See the output before you run it:** [NVIDIA, 4 pages (PDF)](examples/manual-nvda.pdf) · [中际旭创, 4 pages (PDF)](examples/manual-zjxc.pdf)
 
 ![NVIDIA company manual](assets/preview-nvda.png)
 
 ![中际旭创 company manual](assets/preview-zjxc.png)
 
-## Quick start
+> **This is FinanSI's open-source flagship, not the full catalog.** Other FinanSI skills are commercial and are not published in this repository.
+> Full catalog: **https://finansi.work/?utm_source=github&utm_medium=readme&utm_campaign=company_manual**
 
-Requires Python 3.11+. No package install, no API key, no network.
+## Use it as an agent skill
 
-```bash
-git clone https://github.com/LINZIQI24GITHUB/company-manual.git
-cd company-manual
-
-python bin/manual.py --company nvda --open
-python bin/manual.py --company zjxc --open
-```
-
-`--open` opens the HTML in your browser. Click **Print / Save PDF**, print A4.
-
-On macOS/Linux, use `python3` instead of `python`.
-
-Render both as separate manuals:
-
-```bash
-python bin/manual.py --all
-```
-
-Output:
+Any agent that reads `SKILL.md` can install it. Paste this into Claude Code, Codex, or Cursor:
 
 ```text
-out/manual-nvda.html
-out/manual-zjxc.html
+Read https://finansi.work/skills/company-manual/install.md?utm_source=github&utm_medium=readme&utm_campaign=company_manual
+and follow the instructions to install the company-manual skill.
+Then make a company manual for NVIDIA from its FY2026 10-K.
 ```
 
-Prebuilt sample PDFs: [NVIDIA](examples/manual-nvda.pdf) · [中际旭创](examples/manual-zjxc.pdf)
-
-## Why this exists
-
-Most “AI finance” output is a chat answer or a Markdown report. This project treats the deliverable as a **company manual**:
-
-- a standardized entry for every company;
-- 10-year reported financials;
-- business mix and capital allocation when disclosed;
-- sources and definitions on the page;
-- variable length, because companies are not equally complicated.
-
-The design reference is the page-by-page company manual tradition (Moody's / Value Line style). This project is not affiliated with either.
+The install doc picks the right skills directory for your agent (`~/.claude/skills/`, `~/.codex/skills/`, `~/.agents/skills/`, …) and ends with one real task to verify the install.
 
 ## What is inside
 
@@ -77,6 +52,8 @@ The design reference is the page-by-page company manual tradition (Moody's / Val
 
 Conditional sections are omitted when the data is not there. No empty sections, no estimates, no padding to hit a page target.
 
+Page count follows what the company actually discloses, not a template. The two current demos fit in 4 pages each; that is a layout result, not a specification. A company with fewer years or no segment data will be shorter; a group with segments, buybacks, and governance history will be longer.
+
 ## Current demos
 
 | Company | Period | Currency | Latest annual |
@@ -84,7 +61,21 @@ Conditional sections are omitted when the data is not there. No empty sections, 
 | NVIDIA | FY2017–FY2026 | US$ bn | FY2026 10-K, ended 2026-01-25 |
 | 中际旭创 | 2016–2025 | 亿元 | 2025 annual report |
 
-The two current demos both fit in 4 pages. That is a layout result, not a specification. A company with fewer years or no segment data will be shorter; a group with segments, buybacks, and governance history will be longer.
+## Why this exists
+
+Most “AI finance” output is a chat answer or a Markdown report. This project treats the deliverable as a **company manual**:
+
+- a standardized entry for every company;
+- 10-year reported financials;
+- business mix and capital allocation when disclosed;
+- sources and definitions on the page;
+- variable length, because companies are not equally complicated.
+
+The design reference is the page-by-page company manual tradition (Moody's / Value Line style). This project is not affiliated with either.
+
+## Which company next?
+
+Open a [Discussion](https://github.com/LINZIQI24GITHUB/company-manual/discussions) with a ticker and the one page you actually need. Next demo is picked from there, not from a roadmap.
 
 ## Repository layout
 
