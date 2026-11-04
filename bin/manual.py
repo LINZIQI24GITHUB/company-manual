@@ -57,6 +57,8 @@ LABELS = {
         "equity_ratio": "Equity ratio",
         "business_mix": "Business mix",
         "capital": "Capital allocation",
+        "cap_year": "Year",
+        "cap_total": "Total",
         "sources": "Sources",
         "notes": "Notes on the data",
         "colophon": "How to read this manual",
@@ -117,6 +119,8 @@ LABELS = {
         "equity_ratio": "权益比率",
         "business_mix": "业务结构",
         "capital": "资本配置",
+        "cap_year": "年份",
+        "cap_total": "合计",
         "sources": "来源",
         "notes": "数据说明",
         "colophon": "怎么读这本手册",
@@ -350,7 +354,7 @@ def capital_table(c: dict, L: dict) -> str:
             f'<td>{num((r.get("dividends") or 0) + (r.get("buybacks") or 0))}</td></tr>'
         )
     return (
-        '<table class="seg-table"><thead><tr><th>Year</th><th>Dividends</th><th>Buybacks</th><th>Total</th></tr></thead>'
+        f'<table class="seg-table"><thead><tr><th>{esc(L["cap_year"])}</th><th>{esc(L["dividends"])}</th><th>{esc(L["buybacks"])}</th><th>{esc(L["cap_total"])}</th></tr></thead>'
         f'<tbody>{"".join(body)}</tbody></table>'
     )
 

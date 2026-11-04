@@ -7,7 +7,7 @@
 
 **One command turns a listed company into a printable company manual.**
 Ten years of reported financials, the business mix, cash flow, and sources — on the page, not in a chat window.
-Currently ships NVIDIA (FY2026 10-K), Apple (FY2026 10-K), Tesla (FY2025 10-K), 中际旭创 (2025 annual report) and 宁德时代 (2025 annual report). Any other company needs its own `data/<code>/company.json`.
+Currently ships NVIDIA (FY2026 10-K), Apple (FY2026 10-K), Tesla (FY2025 10-K), 中际旭创 (2025 annual report), 宁德时代 (2025 annual report), 贵州茅台 (2025 annual report) and 中国平安 (2025 annual report). Any other company needs its own `data/<code>/company.json`.
 
 ```bash
 git clone https://github.com/LINZIQI24GITHUB/company-manual.git
@@ -19,7 +19,7 @@ Output: `out/manual-nvda.html`. Click **Print / Save PDF**, print A4.
 
 **No API key, no package install** — Python 3.11+ and the standard library. The renderer makes no network calls; the data ships as JSON files.
 
-**See the output before you run it:** [NVIDIA, 4 pages (PDF)](examples/manual-nvda.pdf) · [Apple, 4 pages (PDF)](examples/manual-aapl.pdf) · [Tesla, 4 pages (PDF)](examples/manual-tsla.pdf) · [中际旭创, 4 pages (PDF)](examples/manual-zjxc.pdf) · [宁德时代, 4 pages (PDF)](examples/manual-catl.pdf)
+**See the output before you run it:** [NVIDIA, 4 pages (PDF)](examples/manual-nvda.pdf) · [Apple, 4 pages (PDF)](examples/manual-aapl.pdf) · [Tesla, 4 pages (PDF)](examples/manual-tsla.pdf) · [中际旭创, 4 pages (PDF)](examples/manual-zjxc.pdf) · [宁德时代, 4 pages (PDF)](examples/manual-catl.pdf) · [贵州茅台, 4 pages (PDF)](examples/manual-moutai.pdf) · [中国平安, 4 pages (PDF)](examples/manual-pingan.pdf)
 
 ![NVIDIA company manual](assets/preview-nvda.png)
 
@@ -64,6 +64,8 @@ Page count follows what the company actually discloses, not a template. The curr
 | Tesla | FY2016–FY2025 | US$ bn | FY2025 10-K, ended 2025-12-31 |
 | 中际旭创 | 2016–2025 | 亿元 | 2025 annual report |
 | 宁德时代 | 2016–2025 | 亿元 | 2025 annual report |
+| 贵州茅台 | 2016–2025 | 亿元 | 2025 annual report |
+| 中国平安 | 2016–2025 | 亿元 | 2025 annual report |
 
 ## Why this exists
 
@@ -95,6 +97,8 @@ company-manual/
 │  ├─ aapl/company.json
 │  ├─ tsla/company.json
 │  ├─ catl/company.json
+│  ├─ moutai/company.json
+│  ├─ pingan/company.json
 │  └─ zjxc/company.json
 ├─ assets/                    # cover previews, embedded font
 ├─ examples/                  # sample PDFs
