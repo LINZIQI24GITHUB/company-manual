@@ -7,6 +7,7 @@
 
 **One command turns a listed company into a printable company manual.**
 Ten years of reported financials, the business mix, cash flow, and sources — on the page, not in a chat window.
+Currently ships NVIDIA (FY2026 10-K) and 中际旭创 (2025 annual report). Any other company needs its own `data/<code>/company.json`.
 
 ```bash
 git clone https://github.com/LINZIQI24GITHUB/company-manual.git
@@ -16,7 +17,7 @@ python bin/manual.py --company nvda --open
 
 Output: `out/manual-nvda.html`. Click **Print / Save PDF**, print A4.
 
-**No API key, no network, no package install** — Python 3.11+ and the standard library.
+**No API key, no package install** — Python 3.11+ and the standard library. The renderer makes no network calls; the data ships as JSON files.
 
 **See the output before you run it:** [NVIDIA, 4 pages (PDF)](examples/manual-nvda.pdf) · [中际旭创, 4 pages (PDF)](examples/manual-zjxc.pdf)
 
