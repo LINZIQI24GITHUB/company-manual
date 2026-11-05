@@ -1,6 +1,6 @@
 # Company Manual
 
-[![CI](https://github.com/LINZIQI24GITHUB/company-manual/actions/workflows/ci.yml/badge.svg)](https://github.com/LINZIQI24GITHUB/company-manual/actions/workflows/ci.yml)
+[![CI](https://github.com/LINZIQI24GITHUB/finansi-company-manual/actions/workflows/ci.yml/badge.svg)](https://github.com/LINZIQI24GITHUB/finansi-company-manual/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-1f4d3a)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-1f4d3a)](LICENSE)
 [![No ratings](https://img.shields.io/badge/ratings-none-1f4d3a)](#data-rules)
@@ -10,7 +10,7 @@ Ten years of reported financials, the business mix, cash flow, and sources — o
 Currently ships NVIDIA (FY2026 10-K), Apple (FY2026 10-K), Tesla (FY2025 10-K), 中际旭创 (2025 annual report), 宁德时代 (2025 annual report), 贵州茅台 (2025 annual report) and 中国平安 (2025 annual report). Any other company needs its own `data/<code>/company.json`.
 
 ```bash
-git clone https://github.com/LINZIQI24GITHUB/company-manual.git
+git clone https://github.com/LINZIQI24GITHUB/finansi-company-manual.git
 cd company-manual
 python bin/manual.py --company nvda --open
 ```
@@ -81,7 +81,7 @@ The design reference is the page-by-page company manual tradition (Moody's / Val
 
 ## Which company next?
 
-Open a [Discussion](https://github.com/LINZIQI24GITHUB/company-manual/discussions) with a ticker and the one page you actually need. Next demo is picked from there, not from a roadmap.
+Open a [Discussion](https://github.com/LINZIQI24GITHUB/finansi-company-manual/discussions) with a ticker and the one page you actually need. Next demo is picked from there, not from a roadmap.
 
 ## Repository layout
 
