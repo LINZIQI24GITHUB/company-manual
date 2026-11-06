@@ -1,4 +1,6 @@
-# Company Manual
+# 公司手册
+
+**公司手册**：一句话把一家上市公司变成一份可打印、可追溯的事实手册——十年财务、业务结构、现金流、资本配置和来源。
 
 [![CI](https://github.com/LINZIQI24GITHUB/finansi-company-manual/actions/workflows/ci.yml/badge.svg)](https://github.com/LINZIQI24GITHUB/finansi-company-manual/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-1f4d3a)](https://www.python.org/)
